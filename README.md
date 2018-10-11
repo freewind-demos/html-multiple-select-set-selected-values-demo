@@ -1,8 +1,7 @@
-Html Hello World Demo
-=====================
+Html Select Option Demo
+=======================
 
 ```
 open index.html
 ```
 
-You will see `Hello, World!` on page.
